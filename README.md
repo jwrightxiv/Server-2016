@@ -33,7 +33,7 @@
 
 ### 5. Software Deployment with PDQ
 - Installed **PDQ Deploy** on the server.
-- Pushed software packages (e.g., Chrome, Teams. 7-Zip) to client machines.
+- Pushed software packages (e.g., Chrome, Teams, 7-Zip) to client machines.
 - Confirmed successful remote installation.
 
 ### 6. Remote Desktop Testing
